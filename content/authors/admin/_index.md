@@ -14,26 +14,26 @@ organizations:
   url: https://www.wgtn.ac.nz/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research assistant, course coordinator, data analysis, Environmental Science
+bio: Environmental science research assistant, course coordinator, data analyst
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Environmental reconstruction
+- Data visualisation
+- Machine learning
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Physical Geography
+    institution: Victoria University of Wellington
+    year: 2019
+  - course: MSc in Biological Sciences
+    institution: University of Amsterdam
+    year: 2013
+  - course: BSc in Biology
+    institution: University of Amsterdam
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,8 +70,7 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Valerie van den Bos is a research assistant, specialised in Environmental Science, at Victoria University of Wellington. Her academic interests include environmental reconstruction, data visualisation and analysis, statistics and science communication. She teaches in Victoria's Environmental Science programme, co-coordinating courses on advanced numerical analyses.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
